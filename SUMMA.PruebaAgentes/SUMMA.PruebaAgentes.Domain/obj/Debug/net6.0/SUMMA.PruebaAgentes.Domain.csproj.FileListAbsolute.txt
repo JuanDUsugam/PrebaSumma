@@ -1,0 +1,11 @@
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\bin\Debug\net6.0\SUMMA.PruebaAgentes.Domain.deps.json
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\bin\Debug\net6.0\SUMMA.PruebaAgentes.Domain.dll
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\bin\Debug\net6.0\SUMMA.PruebaAgentes.Domain.pdb
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\obj\Debug\net6.0\SUMMA.PruebaAgentes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\obj\Debug\net6.0\SUMMA.PruebaAgentes.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\obj\Debug\net6.0\SUMMA.PruebaAgentes.Domain.AssemblyInfo.cs
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\obj\Debug\net6.0\SUMMA.PruebaAgentes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\obj\Debug\net6.0\SUMMA.PruebaAgentes.Domain.dll
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\obj\Debug\net6.0\refint\SUMMA.PruebaAgentes.Domain.dll
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\obj\Debug\net6.0\SUMMA.PruebaAgentes.Domain.pdb
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Domain\obj\Debug\net6.0\ref\SUMMA.PruebaAgentes.Domain.dll

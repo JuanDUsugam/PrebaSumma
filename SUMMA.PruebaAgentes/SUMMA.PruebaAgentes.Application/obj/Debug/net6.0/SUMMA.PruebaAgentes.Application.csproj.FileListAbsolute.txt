@@ -1,0 +1,15 @@
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\bin\Debug\net6.0\SUMMA.PruebaAgentes.Application.deps.json
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\bin\Debug\net6.0\SUMMA.PruebaAgentes.Application.dll
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\bin\Debug\net6.0\SUMMA.PruebaAgentes.Application.pdb
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\bin\Debug\net6.0\SUMMA.PruebaAgentes.Domain.dll
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\bin\Debug\net6.0\SUMMA.PruebaAgentes.Domain.pdb
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\SUMMA.PruebaAgentes.Application.csproj.AssemblyReference.cache
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\SUMMA.PruebaAgentes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\SUMMA.PruebaAgentes.Application.AssemblyInfoInputs.cache
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\SUMMA.PruebaAgentes.Application.AssemblyInfo.cs
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\SUMMA.PruebaAgentes.Application.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\SUMMA.PruebaAgentes.Application.csproj.CopyComplete
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\SUMMA.PruebaAgentes.Application.dll
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\refint\SUMMA.PruebaAgentes.Application.dll
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\SUMMA.PruebaAgentes.Application.pdb
+C:\Users\usuario\Projects\SUMMA.PruebaAgentes\SUMMA.PruebaAgentes.Application\obj\Debug\net6.0\ref\SUMMA.PruebaAgentes.Application.dll

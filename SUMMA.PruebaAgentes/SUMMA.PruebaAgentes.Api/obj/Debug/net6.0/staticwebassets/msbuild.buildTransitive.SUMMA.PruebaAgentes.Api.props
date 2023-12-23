@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SUMMA.PruebaAgentes.Api.props" />
+</Project>

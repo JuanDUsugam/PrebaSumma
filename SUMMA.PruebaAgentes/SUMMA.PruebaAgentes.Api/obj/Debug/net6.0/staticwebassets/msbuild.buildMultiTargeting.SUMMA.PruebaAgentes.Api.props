@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SUMMA.PruebaAgentes.Api.props" />
+</Project>
